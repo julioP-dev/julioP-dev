@@ -1,17 +1,20 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/fc37a6cd-e853-4091-b5c1-ae0c42f47d6f" width="70%" style="border-radius: 10px;" alt="Banner DBZ Pixel Art Dev" />
 
-  <br/> <br/>
    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=7aa2f7&center=true&vCenter=true&width=800&lines=Hello,+I'm+Júlio+Pedro;Full+Stack+Developer;" />
 </div>
-<p align="center">
- 🎓 Computer Science Student at <code>State University of Paraíba (UEPB)</code>
+<div align="center">
+  🎓 Computer Science Student at <code>State University of Paraíba (UEPB)</code>
+  <br/><br/>
+  I am <b>an enthusiast</b> about technology and software development.<br/>
+  <b>I’m currently focusing on:</b>
+  <br/><br/>
+  🛡️ Cybersecurity & Ethical Hacking &nbsp;|&nbsp;
+  ⚙️ Backend Development &nbsp;|&nbsp;
+  🤖 Data Science & Machine Learning
+</div>
 
-I am enthusiast about technology and software development. **I’m currently focusing on:**
-* 🛡️ **Cybersecurity & Ethical Hacking**
-* ⚙️ **Backend Development**
-* 🤖 **Data Science & Machine Learning**
-</p>
+<br/>
 
 ## **🚀 SKILLS**
 
@@ -73,6 +76,6 @@ I am enthusiast about technology and software development. **I’m currently foc
 
 ## 📫 How to reach me:
   
-  [<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="3.5%"/>](https://steamcommunity.com/profiles/76561198963376567/)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/j%C3%BAlio-pedro-da-silva-5194a9320/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/julio_pedrw/)  &nbsp; <a href="https://mail.google.com/mail/?view=cm&fs=1&to=juliop.dev@gmail.com" target="_blank">
-  <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
+  [<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" height="40px"/>](https://steamcommunity.com/profiles/76561198963376567/)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" height="40px"/>](https://www.linkedin.com/in/j%C3%BAlio-pedro-da-silva-5194a9320/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" height="40px"/>](https://www.instagram.com/julio_pedrw/)  &nbsp; <a href="https://mail.google.com/mail/?view=cm&fs=1&to=juliop.dev@gmail.com" target="_blank">
+  <img src="https://img.icons8.com/fluent/48/000000/gmail.png" height="40px"/>
 </a>
