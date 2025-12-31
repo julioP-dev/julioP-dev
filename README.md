@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=45&pause=1000&color=7aa2f7&center=true&vCenter=true&width=800&lines=Olá,+eu+sou+Julio+Pedro;Full+Stack+Developer;" />
+</div>
+
 ## **🚀 SKILLS**
 
 <table align="center">
