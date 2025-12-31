@@ -5,7 +5,7 @@
    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=7aa2f7&center=true&vCenter=true&width=800&lines=Hello,+I'm+Júlio+Pedro;Full+Stack+Developer;" />
 </div>
 <p align="center">
- 🎓 Computer Science Student at UEPB (State University of Paraíba)
+ 🎓 Computer Science Student at <code>State University of Paraíba (UEPB)</code>
 
 I am enthusiast about technology and software development. **I’m currently focusing on:**
 * 🛡️ **Cybersecurity & Ethical Hacking**
