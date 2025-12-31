@@ -48,6 +48,16 @@
 </table>
 <br/>
 
+---
+
+<div align="center">
+  <img src="https://github-readme-stats-ebon-ten-19.vercel.app/api?username=julioP-dev&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+  
+  <img src="https://github-readme-stats-ebon-ten-19.vercel.app/api/top-langs/?username=julioP-dev&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" width="48%"/>
+</div>
+
+---
+
 ## 📫 How to reach me:
   
   [<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="3.5%"/>](https://steamcommunity.com/profiles/76561198963376567/)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/j%C3%BAlio-pedro-da-silva-5194a9320/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/julio_pedrw/)  &nbsp; <a href="https://mail.google.com/mail/?view=cm&fs=1&to=juliop.dev@gmail.com" target="_blank">
