@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/fc37a6cd-e853-4091-b5c1-ae0c42f47d6f" width="70%" style="border-radius: 10px;" alt="Banner DBZ Pixel Art Dev" />
+  <img src="https://github.com/user-attachments/assets/fc37a6cd-e853-4091-b5c1-ae0c42f47d6f" width="75%" style="border-radius: 10px;" alt="Banner DBZ Pixel Art Dev" />
 
    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=7aa2f7&center=true&vCenter=true&width=800&lines=Hello,+I'm+Júlio+Pedro;Full+Stack+Developer;" />
 </div>
